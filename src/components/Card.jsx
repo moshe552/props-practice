@@ -13,7 +13,7 @@ function Card(props) {
             <Detail DetailInfo={props.tel} />
             <Detail DetailInfo={props.email} />
         </div>
-  </div>)
+    </div>)
 }
 
 export default Card;
